@@ -1,5 +1,4 @@
 # 📘 Day 1 – Table of Contents
-
 - 🔹 Introduction  
 - ⚖️ Laws and Regulations  
 - ✅ Rules of Evidence  
@@ -14,7 +13,8 @@
 - 🔗 Chain of Custody  
 - 🧪 Tool Validation  
 
-
+---
+---
 ## 🔹 Introduction
 
 In the digital realm, the “objects” are:

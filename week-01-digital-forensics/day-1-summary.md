@@ -69,3 +69,39 @@ digital evidence.
 🎯 Purpose: To **reconstruct incidents** and present findings that are:
 - **Technically sound**
 - **Legally defensible**
+---
+---
+## ⚖️ Laws and Regulations  
+---
+---
+## ✅ Rules of Evidence  
+---
+---
+## 📌 When Does Digital Forensics Matter?  
+---
+---
+## 👨‍💼 Why Organizations Hire Forensic Experts 
+---
+---
+## 🧪 Mock Digital Forensics Drill  
+---
+---
+## 🧰 Virtual Lab Setup  
+---
+---
+## 🧷 Pre-Investigation Considerations  
+---
+---
+## 💾 Data Acquisition  
+---
+---
+## 🧱 Forensic Imaging  
+---
+---
+## 🔒 Write Blocking  
+---
+---
+## 🔗 Chain of Custody  
+---
+---
+## 🧪 Tool Validation  

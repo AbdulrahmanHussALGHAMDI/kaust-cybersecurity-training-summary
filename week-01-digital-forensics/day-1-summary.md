@@ -12,7 +12,6 @@
 - 🔒 Write Blocking  
 - 🔗 Chain of Custody  
 - 🧪 Tool Validation  
-
 ---
 ---
 ## 🔹 Introduction

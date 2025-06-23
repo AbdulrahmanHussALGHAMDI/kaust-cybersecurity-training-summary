@@ -15,6 +15,7 @@
 
 ---
 ---
+
 ## 🔹 Introduction
 
 In the digital realm, the “objects” are:

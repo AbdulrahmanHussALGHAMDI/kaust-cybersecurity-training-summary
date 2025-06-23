@@ -14,7 +14,8 @@
 - 🧪 Tool Validation  
 ---
 ---
-## 🔹 Introduction
+---
+# 🔹 Introduction
 
 In the digital realm, the “objects” are:
 - 👤 People  
@@ -71,37 +72,37 @@ digital evidence.
 - **Legally defensible**
 ---
 ---
-## ⚖️ Laws and Regulations  
+# ⚖️ Laws and Regulations  
 ---
 ---
-## ✅ Rules of Evidence  
+# ✅ Rules of Evidence  
 ---
 ---
-## 📌 When Does Digital Forensics Matter?  
+# 📌 When Does Digital Forensics Matter?  
 ---
 ---
-## 👨‍💼 Why Organizations Hire Forensic Experts 
+# 👨‍💼 Why Organizations Hire Forensic Experts 
 ---
 ---
-## 🧪 Mock Digital Forensics Drill  
+# 🧪 Mock Digital Forensics Drill  
 ---
 ---
-## 🧰 Virtual Lab Setup  
+# 🧰 Virtual Lab Setup  
 ---
 ---
-## 🧷 Pre-Investigation Considerations  
+# 🧷 Pre-Investigation Considerations  
 ---
 ---
-## 💾 Data Acquisition  
+# 💾 Data Acquisition  
 ---
 ---
-## 🧱 Forensic Imaging  
+# 🧱 Forensic Imaging  
 ---
 ---
-## 🔒 Write Blocking  
+# 🔒 Write Blocking  
 ---
 ---
-## 🔗 Chain of Custody  
+# 🔗 Chain of Custody  
 ---
 ---
-## 🧪 Tool Validation  
+# 🧪 Tool Validation  

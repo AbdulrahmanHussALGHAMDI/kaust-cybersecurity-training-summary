@@ -119,3 +119,4 @@ A command-line tool to **extract event data** and create `.plaso` timeline.
 ### Usage:
 ```bash
 log2timeline -f filter_windows.txt export/jeanfilter.plaso image/jean.001
+
